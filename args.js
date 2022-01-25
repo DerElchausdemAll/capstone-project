@@ -5,6 +5,9 @@
 
 const args = process.argv.slice(2);
 
+const myArgs = process.argv.slice(2);
+console.log("name", "myArgs");
+
 console.log(args);
 
 // import { argv } from "process";
