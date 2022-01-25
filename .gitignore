@@ -3,3 +3,6 @@ node_modules
 .DS_Store
 foo
 hello.json
+
+out/*
+!out/.gitkeep
